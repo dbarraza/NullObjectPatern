@@ -1,0 +1,4 @@
+c:\users\dbarraza\documents\visual studio 2013\Projects\NullObjectPattern\NullObjectPattern\bin\Debug\NullObjectPattern.exe
+c:\users\dbarraza\documents\visual studio 2013\Projects\NullObjectPattern\NullObjectPattern\bin\Debug\NullObjectPattern.pdb
+c:\users\dbarraza\documents\visual studio 2013\Projects\NullObjectPattern\NullObjectPattern\obj\Debug\NullObjectPattern.exe
+c:\users\dbarraza\documents\visual studio 2013\Projects\NullObjectPattern\NullObjectPattern\obj\Debug\NullObjectPattern.pdb
